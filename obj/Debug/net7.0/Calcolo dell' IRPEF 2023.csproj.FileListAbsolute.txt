@@ -1,0 +1,15 @@
+C:\Users\magin\OneDrive\Desktop\CORSO\Calcolo dell' IRPEF 2023\Calcolo dell' IRPEF 2023\bin\Debug\net7.0\Calcolo dell' IRPEF 2023.exe
+C:\Users\magin\OneDrive\Desktop\CORSO\Calcolo dell' IRPEF 2023\Calcolo dell' IRPEF 2023\bin\Debug\net7.0\Calcolo dell' IRPEF 2023.deps.json
+C:\Users\magin\OneDrive\Desktop\CORSO\Calcolo dell' IRPEF 2023\Calcolo dell' IRPEF 2023\bin\Debug\net7.0\Calcolo dell' IRPEF 2023.runtimeconfig.json
+C:\Users\magin\OneDrive\Desktop\CORSO\Calcolo dell' IRPEF 2023\Calcolo dell' IRPEF 2023\bin\Debug\net7.0\Calcolo dell' IRPEF 2023.dll
+C:\Users\magin\OneDrive\Desktop\CORSO\Calcolo dell' IRPEF 2023\Calcolo dell' IRPEF 2023\bin\Debug\net7.0\Calcolo dell' IRPEF 2023.pdb
+C:\Users\magin\OneDrive\Desktop\CORSO\Calcolo dell' IRPEF 2023\Calcolo dell' IRPEF 2023\obj\Debug\net7.0\Calcolo dell' IRPEF 2023.csproj.AssemblyReference.cache
+C:\Users\magin\OneDrive\Desktop\CORSO\Calcolo dell' IRPEF 2023\Calcolo dell' IRPEF 2023\obj\Debug\net7.0\Calcolo dell' IRPEF 2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magin\OneDrive\Desktop\CORSO\Calcolo dell' IRPEF 2023\Calcolo dell' IRPEF 2023\obj\Debug\net7.0\Calcolo dell' IRPEF 2023.AssemblyInfoInputs.cache
+C:\Users\magin\OneDrive\Desktop\CORSO\Calcolo dell' IRPEF 2023\Calcolo dell' IRPEF 2023\obj\Debug\net7.0\Calcolo dell' IRPEF 2023.AssemblyInfo.cs
+C:\Users\magin\OneDrive\Desktop\CORSO\Calcolo dell' IRPEF 2023\Calcolo dell' IRPEF 2023\obj\Debug\net7.0\Calcolo dell' IRPEF 2023.csproj.CoreCompileInputs.cache
+C:\Users\magin\OneDrive\Desktop\CORSO\Calcolo dell' IRPEF 2023\Calcolo dell' IRPEF 2023\obj\Debug\net7.0\Calcolo dell' IRPEF 2023.dll
+C:\Users\magin\OneDrive\Desktop\CORSO\Calcolo dell' IRPEF 2023\Calcolo dell' IRPEF 2023\obj\Debug\net7.0\refint\Calcolo dell' IRPEF 2023.dll
+C:\Users\magin\OneDrive\Desktop\CORSO\Calcolo dell' IRPEF 2023\Calcolo dell' IRPEF 2023\obj\Debug\net7.0\Calcolo dell' IRPEF 2023.pdb
+C:\Users\magin\OneDrive\Desktop\CORSO\Calcolo dell' IRPEF 2023\Calcolo dell' IRPEF 2023\obj\Debug\net7.0\Calcolo dell' IRPEF 2023.genruntimeconfig.cache
+C:\Users\magin\OneDrive\Desktop\CORSO\Calcolo dell' IRPEF 2023\Calcolo dell' IRPEF 2023\obj\Debug\net7.0\ref\Calcolo dell' IRPEF 2023.dll
